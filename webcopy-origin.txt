@@ -1,0 +1,240 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://api.whatsapp.com/send/?phone=573027021412&text&type=phone_number&app_absent=0
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\send\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send/?phone=573027021412&text&type=phone_number&app_absent=0&_fb_noscript=1
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\send\index-1.htm
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/about
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/blog
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/contact
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/post/10-quick-tips-about-blogging
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\post\10-quick-tips-about-blogging.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/post/14-common-misconceptions-about-web-design
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\post\14-common-misconceptions-about-web-design.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/post/15-best-blogs-to-follow-about-web-design
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\post\15-best-blogs-to-follow-about-web-design.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/post/5-principles-of-effective-web-design
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\post\5-principles-of-effective-web-design.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/post/7-of-the-best-examples-of-beautiful-blog-design
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\post\7-of-the-best-examples-of-beautiful-blog-design.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/projects
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\projects.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/team
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\team.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/work/project-1
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\work\project-1.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/work/project-2
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\work\project-2.html
+Content Type: text/html
+
+Uri: https://apto-quiroga.webflow.io/work/project-3
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\work\project-3.html
+Content Type: text/html
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd10_menu-icon.png
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd10_menu-icon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd12_portfolio 2 - wide.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd12_portfolio 2 - wide.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd16_Icon 3.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd16_Icon 3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd17_portfolio 1 - wide.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd17_portfolio 1 - wide.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd18_portfolio 3 - wide.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd18_portfolio 3 - wide.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd19_Icon 1.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd19_Icon 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd1a_Icon 2.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd1a_Icon 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd1e_webflow-w-small%402x.png
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd1e_webflow-w-small@2x.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/64bcdc910a57a730476bcd22_Icon 1.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\64bcdc910a57a730476bcd22_Icon 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a18101b3fb9a8bf91ff7d2_IMG_20240110_173017976~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a18101b3fb9a8bf91ff7d2_IMG_20240110_173017976~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a18102cf23e2ce7ca7d202_IMG_20240110_172734935~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a18102cf23e2ce7ca7d202_IMG_20240110_172734935~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a1810410f6f1a1bf3299c9_IMG_20240110_172353114~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a1810410f6f1a1bf3299c9_IMG_20240110_172353114~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a18105261bad02704ea417_IMG_20240110_171658696~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a18105261bad02704ea417_IMG_20240110_171658696~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a181052ab7249866f14009_IMG_20240110_175025501_HDR~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a181052ab7249866f14009_IMG_20240110_175025501_HDR~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a181055192de82f2c63f54_IMG_20240110_172023935~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a181055192de82f2c63f54_IMG_20240110_172023935~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a181057fe542427430a24d_IMG_20240110_174011140_HDR~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a181057fe542427430a24d_IMG_20240110_174011140_HDR~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a18105e11e2a0b7f89f8e2_IMG_20240110_173253233~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a18105e11e2a0b7f89f8e2_IMG_20240110_173253233~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a18106aafe28c070b4c322_IMG_20240110_175411063~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a18106aafe28c070b4c322_IMG_20240110_175411063~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a1810715c33757628bb3fb_IMG_20240110_175514059_HDR~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a1810715c33757628bb3fb_IMG_20240110_175514059_HDR~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/65a18107c03f76a3f1d7e912_IMG_20240110_174606257_HDR~2.jpg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\65a18107c03f76a3f1d7e912_IMG_20240110_174606257_HDR~2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/css/apto-quiroga.webflow.7c75e545c.css
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\css\apto-quiroga.webflow.7c75e545c.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bccc7/js/webflow.c325b2601.js
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bccc7\js\webflow.c325b2601.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bcd02/64bcdc910a57a730476bcd0d_placeholder 1.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bcd02\64bcdc910a57a730476bcd0d_placeholder 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bcd02/64bcdc910a57a730476bcd0e_placeholder 2.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bcd02\64bcdc910a57a730476bcd0e_placeholder 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64bcdc910a57a730476bcd02/64bcdc910a57a730476bcd0f_placeholder 3.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\64bcdc910a57a730476bcd02\64bcdc910a57a730476bcd0f_placeholder 3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/img/favicon.ico
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://assets-global.website-files.com/img/webclip.png
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64bcdc910a57a730476bccc7
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/y-/l/0,cross/kZvrYePeXTB.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\rsrc.php\v3\y-\l\0,cross\kZvrYePeXTB.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yK/l/0,cross/qq5xIvLOG7G.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\rsrc.php\v3\yK\l\0,cross\qq5xIvLOG7G.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yO/l/0,cross/zkmfh5mjXuB.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\rsrc.php\v3\yO\l\0,cross\zkmfh5mjXuB.css
+Content Type: text/css
+
+Uri: https://static.whatsapp.net/rsrc.php/v3/yz/r/ujTY9i_Jhs1.png
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\rsrc.php\v3\yz\r\ujTY9i_Jhs1.png
+Content Type: image/png
+
+Uri: https://webflow.com/
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\index-1.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\index-2.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/community
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\community.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/privacy
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\privacy.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/stayconnected
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\stayconnected.html
+Content Type: text/html
+
+
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\index-2.htm
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/community
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\community.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/expressyourself
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\expressyourself.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/privacy
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\privacy.html
+Content Type: text/html
+
+Uri: https://www.whatsapp.com/stayconnected
+File Name: C:\Docs\Projects\2024_Quiroga\21\apto-quiroga.webflow.io\stayconnected.html
+Content Type: text/html
+
